@@ -1,0 +1,11 @@
+.numeratorAnwser{
+  border-bottom: solid 2px;
+  width:auto;
+  text-align:center;
+  width:200px;
+}
+.divisorAnswer{
+  width:200px;
+  text-align:center;
+  margin-bottom: 20px;
+}
